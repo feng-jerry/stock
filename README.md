@@ -1,8 +1,11 @@
 # Research of Stock Price Trend Prediction Based on Machine Learning Models
-Undergraduate Thesis
+Peking University Undergraduate Thesis
 
-Models investigated:
+Model investigated:
 - Transformer
+
+Baselines:
+
 - Random walk
 - Moving average
 - Ridge
